@@ -2526,7 +2526,7 @@ body {
 #busuanzi_container_site_pv {
   margin-left: 10px;
 }
-.theme-info::before {
+.theme-info::after {
   content: "|";
   padding-left: 10px;
 }
